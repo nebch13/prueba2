@@ -1,0 +1,5 @@
+C:\Users\noe\Desktop\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+C:\Users\noe\Desktop\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.csprojResolveAssemblyReference.cache
+C:\Users\noe\Desktop\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.pdb

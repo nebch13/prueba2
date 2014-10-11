@@ -1,0 +1,9 @@
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\NumeroRomanoTest.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\NumeroRomanoTest.pdb
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\NumerosRomanos.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\nunit.framework.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\NumerosRomanos.pdb
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\bin\Debug\nunit.framework.xml
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\obj\Debug\NumeroRomanoTest.csprojResolveAssemblyReference.cache
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\obj\Debug\NumeroRomanoTest.dll
+C:\Users\noe\Desktop\NumerosRomanos\NumeroRomanoTest\obj\Debug\NumeroRomanoTest.pdb
